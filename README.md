@@ -6,4 +6,9 @@ Below will hold my notes taken for each day and will contain any code I type alo
 
 ## Day 1 [9/9/25]
 
-null
+Today's lesson is review on variables, typecasting, and user input. I end by performing multiple exercises regarding these topics.
+
+### Code Used: [Review01.py](asdf)
+
+### Notes:
+
