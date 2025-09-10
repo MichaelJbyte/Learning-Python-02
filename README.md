@@ -8,7 +8,7 @@ Below will hold my notes taken for each day and will contain any code I type alo
 
 Today's lesson is review on variables, typecasting, and user input. I end by performing multiple exercises regarding these topics.
 
-### Code Used: [Review01.py](asdf)
+### Code Used: [Review01.py](Review01.py)
 
 ### Notes:
 
