@@ -12,3 +12,5 @@ Today's lesson is review on variables, typecasting, and user input. I end by per
 
 ### Notes:
 
+N/A. All review.
+
