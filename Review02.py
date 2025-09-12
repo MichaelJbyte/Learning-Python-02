@@ -6,46 +6,46 @@ y = 4
 z = 5
 a = 9.1
 
-#   result = round(x)
-#   result2 = abs(y)
-#   result3 = pow(y, 3)
-#   result4 = max(x, y, z)
-#   result5 = min(x, y, z)
-#   result6 = math.sqrt(a)
-#   result7 = math.ceil(a) | rounds up
-#   result8 = math.floor(a)  |  rounds down
+result = round(x)
+result2 = abs(y)
+result3 = pow(y, 3)
+result4 = max(x, y, z)
+result5 = min(x, y, z)
+result6 = math.sqrt(a)
+result7 = math.ceil(a) | rounds up
+result8 = math.floor(a)  |  rounds down
 
-#   print(result)
+print(result)
 
 # Exercises
 
-#   radius = float(input("Enter the radius of a circle: "))
+radius = float(input("Enter the radius of a circle: "))
 
-#   circumference: float = 2 * math.pi * radius
+circumference: float = 2 * math.pi * radius
 
-#   print(f"The circumference is: {round(circumference, 2)}")
-
-
-#       radius = float(input("Enter the radius of a circle: "))
-
-#       area: float = math.pi * pow(radius, 2)
-
-#       print(f"The area of the circle is: {round(area, 4)}cm^2")
+print(f"The circumference is: {round(circumference, 2)}")
 
 
-#   side_a = float(input("Enter side A: "))
-#   side_b = float(input("Enter side B: "))
+radius = float(input("Enter the radius of a circle: "))
 
-#   side_c = math.sqrt(pow(side_a, 2) + pow(side_b, 2))
+area: float = math.pi * pow(radius, 2)
 
-#   print(f"side C equals {side_c}")
+print(f"The area of the circle is: {round(area, 4)}cm^2")
+
+# Area of a Triangle
+
+side_a = float(input("Enter side A: "))
+side_b = float(input("Enter side B: "))
+
+side_c = math.sqrt(pow(side_a, 2) + pow(side_b, 2))
+
+print(f"side C equals {side_c}")
 
 # Python Calculator
 
 operator = input("Enter an operator (+ - * /): ")
 num1 = float(input("Enter the 1st number: "))
 num2 = float(input("Enter the 1st number: "))
-
 
 if operator == "+":
     result = num1 + num2
@@ -62,7 +62,6 @@ elif operator == "/":
 else:
     print(f"{operator} is not a valid operator")
 
-
 # Weight Converter
 
 weight = float(input("Enter your weight: "))
@@ -78,7 +77,6 @@ elif unit == "L":
     print(f"Your weight is: {round(weight, 1)} {unit}")
 else:
     print(f"{unit} was not a valid unit")
-
 
 # Temperature Conversion
 
@@ -124,3 +122,4 @@ print(weather)
 user_role: str = "guest"
 access_lvl = "Full Access" if user_role == "admin" else "Limited Access"
 print(access_lvl)
+
