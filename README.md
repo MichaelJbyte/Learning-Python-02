@@ -14,3 +14,16 @@ Today's lesson is review on variables, typecasting, and user input. I end by per
 
 N/A. All review.
 
+---
+
+## Day 2 [9/11/25]
+
+Today I practiced with arithmetic and math functions, if statements, and user inputs. I also learned more about conditional expressions. I performed a variety of exercises surrounding these topics.
+
+### Code Used: [Review02.py](Review02.py)
+
+### Notes:
+
+* Make sure to properly order your if statements to prevent overlapping statements.
+* When using an if statement and a boolean together, you do not need to write a condition for the boolean.
+* When creating a condition to test if an interger is between two others, you write it like this: '12 > x > 5'
