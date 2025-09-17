@@ -27,3 +27,15 @@ Today I practiced with arithmetic and math functions, if statements, and user in
 * Make sure to properly order your if statements to prevent overlapping statements.
 * When using an if statement and a boolean together, you do not need to write a condition for the boolean.
 * When creating a condition to test if an interger is between two others, you write it like this: '12 > x > 5'
+
+---
+
+## Day 3 [9/16/25]
+
+Today I learned about frequently used string methods along with string indexing. I also learned about multiple formatting flags. Lastly I reviewed and practiced with while loops. I used all of this newfound knowledge to create a compound interest calculator.
+
+### Code Used: [Lesson01.py](Lesson01.py)
+
+### Notes:
+
+N/A.
