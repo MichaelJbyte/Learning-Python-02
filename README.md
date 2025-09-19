@@ -50,5 +50,5 @@ Today I reviewed for loops and nested loops. I also learned about the difference
 
 ### Notes:
 
-* the 'dir()' function allows you to look at attributes of lists.
+* the 'dir()' function allows you to look at attributes of lists, tuples, and sets.
 * the 'help()' function is just like '--help' for Linux.
