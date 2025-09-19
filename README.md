@@ -39,3 +39,16 @@ Today I learned about frequently used string methods along with string indexing.
 ### Notes:
 
 N/A.
+
+---
+
+## Day 4 [9/18/25]
+
+Today I reviewed for loops and nested loops. I also learned about the differences and uses of lists, tuples, and sets. I performed a couple of exercises regarding these topics.
+
+### Code Used: [Lesson02.py](Lesson02.py)
+
+### Notes:
+
+* the 'dir()' function allows you to look at attributes of lists.
+* the 'help()' function is just like '--help' for Linux.
