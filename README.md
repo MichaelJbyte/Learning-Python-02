@@ -52,3 +52,16 @@ Today I reviewed for loops and nested loops. I also learned about the difference
 
 * the 'dir()' function allows you to look at attributes of lists, tuples, and sets.
 * the 'help()' function is just like '--help' for Linux.
+
+---
+
+## Day 5 [9/23/25]
+
+Today I practiced with many exercises regarding new syntax I learned such as 2D lists/tuples and dictionaries. 
+
+### Code Used: [Lesson03.py](Lesson03.py)
+
+### Notes:
+
+* Try and always use tuples. They are faster. If you need interchangeable variables, then use a list.
+* You use the same curly brackets '{}' for both dictionaries and sets.
