@@ -65,3 +65,15 @@ Today I practiced with many exercises regarding new syntax I learned such as 2D 
 
 * Try and always use tuples. They are faster. If you need interchangeable variables, then use a list.
 * You use the same curly brackets '{}' for both dictionaries and sets.
+
+---
+
+## Day 5 [9/25/25]
+
+Today....
+
+### Code Used: [Lesson04.py](Lesson04.py)
+
+### Notes:
+
+* N/A
