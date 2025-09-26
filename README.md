@@ -68,9 +68,9 @@ Today I practiced with many exercises regarding new syntax I learned such as 2D 
 
 ---
 
-## Day 5 [9/25/25]
+## Day 6 [9/25/25]
 
-Today....
+Today I learned about using the random function and made two python coded games using this function.
 
 ### Code Used: [Lesson04.py](Lesson04.py)
 
