@@ -77,3 +77,15 @@ Today I learned about using the random function and made two python coded games 
 ### Notes:
 
 * N/A
+
+---
+
+## Day 7 [9/30/25]
+
+Today...
+
+### Code Used: [Lesson05.py](Lesson05.py)
+
+### Notes:
+
+* N/A
