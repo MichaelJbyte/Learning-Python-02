@@ -82,10 +82,13 @@ Today I learned about using the random function and made two python coded games 
 
 ## Day 7 [9/30/25]
 
-Today...
+Today I start by using what I learned about the random function last time to create a dice roller. Following this exercise, I overview custom functions and return statements. The different types of arguments such as: positional, default, keyword, and arbitrary are also learned and used in additional exercises.
 
 ### Code Used: [Lesson05.py](Lesson05.py)
 
 ### Notes:
 
-* N/A
+* Default arguments should always be in front of any other argument. (This applies to *args and **kwargs as well)
+* '**kwargs' stands for: keyword arguments.
+* keyword arguments are useful for better readability and are useful for appending any extra arguments.
+* The asterik '*' is referred to as the unpacking operator in python.
