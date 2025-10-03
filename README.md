@@ -92,3 +92,20 @@ Today I start by using what I learned about the random function last time to cre
 * '**kwargs' stands for: keyword arguments.
 * keyword arguments are useful for better readability and are useful for appending any extra arguments.
 * The asterik '*' is referred to as the unpacking operator in python.
+
+---
+
+## Day 8 [10/02/25]
+
+Today...
+
+### Code Used: [Lesson06.py](Lesson06.py)
+
+### Notes:
+
+* When you want to get the values of a dictionary in python, you must use the bulit-in '.values()' method and append it to your dictionary.
+* When you want both the keys and values, you must use the '.items()' function. Below will be an example:
+###
+    > for key, value in my_dictionary.items():
+    > print(key, value)
+* asd
