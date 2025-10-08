@@ -108,3 +108,20 @@ Today I reviewed the concepts of iterables variables and membership operators (i
 ###
     > for key, value in my_dictionary.items():
     > print(key, value)
+
+---
+
+## Day 9 [10/07/25]
+
+Today I learned how to use Match-case statements along with creating your own modules. I also learned about the LEGB order for variables and both the use and purpose of the 'if _name_ == _main_' statement. I put all of these skills to use by creating a banking program, a slot machine program, and an encryption program.
+
+### Code Used: [Lesson07.py](Lesson07.py)
+
+### Notes:
+
+* The pipe operator '|' is used as an 'or' statement for Match-Case Statements.
+* A module is a file which contains code that you can use for a program. (import)
+* To make your own module you must make a seperate python file(similar to a class)
+* Dunder means double underscore (__)
+* The 'if _name_ == _main_' line allows you to borrow functions from another python script. This setup will not run all the code in said python script and will allow you to just call and borrow a function. (Pretty much standard in java but you have to write it out for python)
+* The above line is good practice for readability, leaving no global variables, and avoiding any unintentional executions.
