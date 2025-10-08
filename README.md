@@ -97,7 +97,7 @@ Today I start by using what I learned about the random function last time to cre
 
 ## Day 8 [10/02/25]
 
-Today...
+Today I reviewed the concepts of iterables variables and membership operators (in/not in). I finished the lesson by better understanding how and when to use list comprehensions.
 
 ### Code Used: [Lesson06.py](Lesson06.py)
 
@@ -108,4 +108,3 @@ Today...
 ###
     > for key, value in my_dictionary.items():
     > print(key, value)
-* asd
