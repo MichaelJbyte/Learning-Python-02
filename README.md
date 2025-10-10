@@ -125,3 +125,16 @@ Today I learned how to use Match-case statements along with creating your own mo
 * Dunder means double underscore (__)
 * The 'if _name_ == _main_' line allows you to borrow functions from another python script. This setup will not run all the code in said python script and will allow you to just call and borrow a function. (Pretty much standard in java but you have to write it out for python)
 * The above line is good practice for readability, leaving no global variables, and avoiding any unintentional executions.
+
+---
+
+## Day 10 [10/09/25]
+
+Today I...
+
+### Code Used: [Lesson08.py](Lesson08.py)
+
+### Notes:
+
+* Since the backslash character is technically an escape character when used in a string, you must use double backslash '\\' to print one.
+* " ".join(hint)
