@@ -141,13 +141,20 @@ Today I...
 
 ---
 
-## Day 11 [10/13/25]
+## Day 11 [10/14/25]
 
-Today I...
+Today I learned all about the fundamentals of Object Oriented Programming (OOP). The different operators and structures were reviewed and used in multiple examples. Class variables and inheritance, which regard OOP, were also learned. Lastly the super() method was learned and used.
 
 ### Code Used: [Lesson09.py](Lesson09.py)
 
 ### Notes:
 
-* 
+* Python Object Oriented Programming (OOP) is a concept which structures coding around objects. Objects can have various attributes (variables) and methods (functions). Basically coding with classes.
+* The dot operator '.' is used and know as the Attribute Access Operator. This dot allows you to print certain attributes found in an object defined in a class.
+* Class variables are defined out of the constructor, acting as a global variable for classes. They're accessible to all objects defined in the class.
+* Inheritance allows a second class to obtain class variables from a first class by calling on it.
+* **_Multiple Inheritance:_** This is when a child class inherits attributes from two parent classes. 'C(A, B)'
+  **_Multilevel Inheritance:_** This is when a parent class inherits from another parent class.
+* If you are not assigning any attributes for a method, you do not need a constructor.
+* **_Method Overriding:_** If a child class shares a method name with a parent class, the child method will override and be used.
 
