@@ -175,7 +175,7 @@ Today I began by learning about polymorphism and duck typing. They are both used
 ###
     > Employee.is_valid_position("Cook")
 
-* '@classmethod' is the example of something called a ** _Decorator_**.
+* '@classmethod' is the example of something called a **_Decorator_**.
 * The purpose of a class method: A class method allows you to access and/or modify class data, such as class variables.
 ### Keyboard Shortcut (VSCode): 'Ctrl + D' while highlighting a word will allow you to edit multiple words of the same instance.
 
