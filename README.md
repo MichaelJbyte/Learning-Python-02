@@ -158,3 +158,24 @@ Today I learned all about the fundamentals of Object Oriented Programming (OOP).
 * If you are not assigning any attributes for a method, you do not need a constructor.
 * **_Method Overriding:_** If a child class shares a method name with a parent class, the child method will override and be used.
 
+---
+
+## Day 12 [10/21/25]
+
+Today I began by learning about polymorphism and duck typing. They are both used to classify objects and classes. I ended by clarifying the different types of methods for OOP. This being: class methods, static methods, and instance methods.
+
+### Code Used: [Lesson10.py](Lesson10.py)
+
+### Notes:
+
+* Polymorphism in coding is when an object can be considered multiple other objects all at once.
+* 'Duck Typing' is when an object has a minimum number of necessary attributes to be considered another object/class.
+* If an object can have the same variables/perform the same, it can be considered another object.
+* To use a static method, you will not need to create an object, since it is not tied to one. You can instead used the class name as such in the lesson file:
+###
+    > Employee.is_valid_position("Cook")
+
+* '@classmethod' is the example of something called a ** _Decorator_**.
+* The purpose of a class method: A class method allows you to access and/or modify class data, such as class variables.
+### Keyboard Shortcut (VSCode): 'Ctrl + D' while highlighting a word will allow you to edit multiple words of the same instance.
+
