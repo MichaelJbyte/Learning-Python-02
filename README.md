@@ -179,3 +179,14 @@ Today I began by learning about polymorphism and duck typing. They are both used
 * The purpose of a class method: A class method allows you to access and/or modify class data, such as class variables.
 ### Keyboard Shortcut (VSCode): 'Ctrl + D' while highlighting a word will allow you to edit multiple words of the same instance.
 
+---
+
+## Day 13 [10/28/25]
+
+Today I...
+
+### Code Used: [Lesson11.py](Lesson11.py)
+
+### Notes:
+
+* Magic methods allow you to customize the behaviour of objects.
