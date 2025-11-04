@@ -181,12 +181,16 @@ Today I began by learning about polymorphism and duck typing. They are both used
 
 ---
 
-## Day 13 [10/28/25]
+## Day 13 [11/03/25]
 
-Today I...
+Today I learned about magic operators and various decorators. Magic operators are also known as dunder methods. The '@property' decorator was deliberately covered along with excpetion handling. Exceptions are dealt with the try-else-finally statements. 
 
 ### Code Used: [Lesson11.py](Lesson11.py)
 
 ### Notes:
 
 * Magic methods allow you to customize the behaviour of objects.
+* When settings attributes in a method, you can communicate and set one private by preceding the name with an underscore '_':
+  
+      self._width = width
+      self._height = height
